@@ -1,4 +1,4 @@
-🌾 AgroChat — A Retrieval-Augmented Multimodal Assistant for Crop Disease & Pest Diagnosis
+<h1 align="center"><b>🌾 AgroChat — A Retrieval-Augmented Multimodal Assistant for Crop Disease & Pest Diagnosis</b></h1>
 
 AgroChat is an AI-powered agricultural assistant that combines dual CNN
 models, Retrieval-Augmented Generation (RAG), weather intelligence, and
