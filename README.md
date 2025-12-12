@@ -58,7 +58,7 @@ README.md
 
 Clone the repository
 
-git clone https://github.com/Rishita300/AgroChat.git cd AgroChat
+git clone https://github.com/Rishita300/AgroGPT.git cd AgroChat
 
 🖥️ Backend Setup (FastAPI)
 
