@@ -20,7 +20,7 @@ conditions.
 
 📌 System Architecture
 
-(Architecture image not included in .txt, add manually if needed)
+![AgroChat Architecture](AGROchat.drawio.png)
 
 🏗️ Tech Stack
 
